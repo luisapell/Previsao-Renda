@@ -13,4 +13,5 @@ Colocamos em uso o modelo desenvolvido, normalmente implementando o modelo desen
 **Por**: [Luísa Pellozzo](https://www.linkedin.com/in/luisa-pellozzo-silva-ba4932194/)<br>
 ---
 Segue a análise: 
-[![Previsão de Renda](https://youtu.be/RfciC9QWQCc)
+
+[![Previsão de Renda](https://img.youtube.com/vi/RfciC9QWQCc/maxresdefault.jpg)](https://youtu.be/RfciC9QWQCc)
