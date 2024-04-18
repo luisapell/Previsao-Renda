@@ -14,4 +14,10 @@ Colocamos em uso o modelo desenvolvido, normalmente implementando o modelo desen
 ---
 Segue a análise: 
 
-[![Previsão de Renda](https://img.youtube.com/vi/RfciC9QWQCc/maxresdefault.jpg)](https://youtu.be/RfciC9QWQCc)
+link para o video no YouTube [Previsão de Renda](https://youtu.be/RfciC9QWQCc)
+
+
+https://github.com/luisapell/Previsao-Renda/assets/159491627/894c7e14-59df-434e-960f-310ba319c2ec
+
+
+### **Caso queira abrir você mesmo**:
