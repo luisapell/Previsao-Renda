@@ -9,7 +9,7 @@ A técnica de modelagem escolhida é o Decision Tree Regressor. Esta escolha se 
 
 Colocamos em uso o modelo desenvolvido, normalmente implementando o modelo desenvolvido em um motor que toma as decisões com algum nível de automação.
 ---
-## **Profissão: Cientista de Dados**
+### **Profissão: Cientista de Dados**
 **Por**: [Luísa Pellozzo](https://www.linkedin.com/in/luisa-pellozzo-silva-ba4932194/)<br>
 ---
 Segue a análise: 
