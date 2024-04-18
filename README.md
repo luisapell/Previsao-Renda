@@ -38,3 +38,6 @@ depois seguir com o comando:
 streamlit run app.py
 ```
 Isso iniciará o projeto em sua máquina local.
+
+
+## Caso quera ver o projeto em seu Jupyter Notebook pode baixar no [Aqui](https://github.com/luisapell/Previsao-Renda/blob/main/projeto-2.ipynb)
