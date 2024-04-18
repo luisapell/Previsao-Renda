@@ -1,23 +1,40 @@
 <img src="https://github.com/Guihyout/previsao-de-renda-DATASCIENCE/blob/main/mod16/logos/newebac_logo_black_half.png" alt="ebac-logo">
 
-# Previsão Renda
-Previsão de renda de clientes de um banco - Projeto
-Em uma instituição financeira, entender o perfil dos novos clientes é crucial para diversas finalidades, como avaliar a capacidade de pagamento, prever comportamentos financeiros e dimensionar limites de crédito de forma responsável. Essa análise também desempenha um papel importante na mitigação de riscos, como a inadimplência, e na personalização das ofertas de produtos e serviços para atender às necessidades dos clientes de maneira eficaz.
-- **Técnica de modelagem**
+# Previsão de Renda
 
-A técnica de modelagem escolhida é o Decision Tree Regressor. Esta escolha se baseia na capacidade do algoritmo em lidar eficazmente com problemas de regressão, como a previsão de renda dos clientes. Além disso, as árvores de decisão são conhecidas por sua facilidade de interpretação, o que é crucial para entender como o modelo faz suas previsões e quais atributos são mais relevantes.
+Este projeto visa prever a renda de clientes de um banco, utilizando a técnica de modelagem Decision Tree Regressor. A capacidade de prever a renda dos clientes é crucial para várias finalidades em uma instituição financeira, incluindo avaliação de capacidade de pagamento, personalização de ofertas e mitigação de riscos.
 
-Colocamos em uso o modelo desenvolvido, normalmente implementando o modelo desenvolvido em um motor que toma as decisões com algum nível de automação.
----
-### **Profissão: Cientista de Dados**
-**Por**: [Luísa Pellozzo](https://www.linkedin.com/in/luisa-pellozzo-silva-ba4932194/)<br>
----
-Segue a análise: 
+## Técnica de Modelagem
 
-link para o video no YouTube [Previsão de Renda](https://youtu.be/RfciC9QWQCc)
+A técnica de modelagem escolhida é o Decision Tree Regressor devido à sua eficácia na previsão de renda dos clientes e à facilidade de interpretação das árvores de decisão.
+
+## Autor
+
+Este projeto foi desenvolvido por Luísa Pellozzo, Cientista de Dados. Conheça mais sobre o autor [aqui](https://www.linkedin.com/in/luisa-pellozzo-silva-ba4932194/).
+
+## Vídeo Demonstrativo
+
+Assista a uma demonstração do projeto no YouTube [Aqui](https://youtu.be/RfciC9QWQCc).
 
 
 https://github.com/luisapell/Previsao-Renda/assets/159491627/894c7e14-59df-434e-960f-310ba319c2ec
 
 
-### **Caso queira abrir você mesmo**:
+## Como Executar Localmente
+
+Para executar este projeto em sua máquina local, siga estas etapas:
+
+1. Abra sua janela de comando com o Streamlit instalado.
+2. Baixe os arquivos necessários do projeto:
+
+   - [Arquivo Mãe](https://github.com/luisapell/Previsao-Renda/tree/main/m16)
+   - [Input](https://github.com/luisapell/Previsao-Renda/tree/main/m16/projeto%202/input)
+   - [Output](https://github.com/luisapell/Previsao-Renda/tree/main/m16/projeto%202/output)
+   - [app.py](https://github.com/luisapell/Previsao-Renda/blob/main/m16/projeto%202/app.py)
+     
+depois seguir com o comando:
+
+```
+streamlit run app.py
+```
+Isso iniciará o projeto em sua máquina local.
